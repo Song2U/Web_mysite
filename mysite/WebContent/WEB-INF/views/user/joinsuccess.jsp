@@ -8,7 +8,7 @@
 </head>
 <body>
 	<div id="container">
-		<jsp:include page="/WEB-INF/views/include/header.jsp"></jsp:include>
+		<jsp:include page="/WEB-INF/views/include/header.jsp"/>
 		<div id="content">
 			<div id="user">
 				<p class="jr-success">
@@ -18,8 +18,8 @@
 				</p>				
 			</div>
 		</div>
-		<jsp:include page="/WEB-INF/views/include/navi.jsp"></jsp:include>
-		<jsp:include page="/WEB-INF/views/include/footer.jsp"></jsp:include>
+		<jsp:include page="/WEB-INF/views/include/navi.jsp"/>
+		<jsp:include page="/WEB-INF/views/include/footer.jsp"/>
 		</div>
 	</div>
 </body>

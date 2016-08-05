@@ -1,7 +1,6 @@
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
 <div id="container">
-<jsp:include page="/WEB-INF/views/include/header.jsp"></jsp:include>
 			<h1>MySite</h1>
 			<ul>
 				<li><a href="/mysite/user?a=loginform">로그인</a><li>

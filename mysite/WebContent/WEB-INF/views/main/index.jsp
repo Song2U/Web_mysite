@@ -38,8 +38,8 @@
 				</div>
 			</div>
 		</div>
-		<jsp:include page="/WEB-INF/views/include/navi.jsp"></jsp:include>
-		<jsp:include page="/WEB-INF/views/include/footer.jsp"></jsp:include>
+		<jsp:include page="/WEB-INF/views/include/navi.jsp"/>
+		<jsp:include page="/WEB-INF/views/include/footer.jsp"/>
 
 	</div>
 </body>
